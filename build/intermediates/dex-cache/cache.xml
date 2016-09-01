@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_d88470f9342c9ccf299c3cad2bca376f4b66b61a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_eac8c47b1045d3cb38e1a3c4a1ecf1a984bd6965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_ff665b2e7aa679145608464ce11ff05456235ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_d633f814f63f4b9e9c3fb4bc39dea249bcd73fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_35ddde554f5b301e4f2d9c2e3ac408f22eac3bfc.jar" />
+    </item>
+
+</items>
