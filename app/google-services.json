@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047510152684",
+    "firebase_url": "https://post-disaster-management-app.firebaseio.com",
+    "project_id": "post-disaster-management-app",
+    "storage_bucket": "post-disaster-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047510152684:android:e8d52bde89af5216",
+        "android_client_info": {
+          "package_name": "com.aashutoshrestha.dontpanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047510152684-7hob3kjufovsv6n5e1ne5l5a0bh7ene4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXs0HHjNCZ4TinNbbPveEuXTV6JdCyyhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
