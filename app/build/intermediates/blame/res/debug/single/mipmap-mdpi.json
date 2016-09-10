@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\aashutosh\\Dont Panic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\aashutosh\\Dont Panic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aashutosh\\Dont Panic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_lightbulb.png",
+        "source": "C:\\Users\\aashutosh\\Dont Panic\\app\\src\\main\\res\\mipmap-mdpi\\ic_lightbulb.png"
     }
 ]

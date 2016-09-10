@@ -3,48 +3,156 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\aashutosh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
         jumboMode="false"
-        optimize="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_d88470f9342c9ccf299c3cad2bca376f4b66b61a.jar" />
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.4.0_e3cd09c443de9936e5b2bca1832732e3eb056da4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
         jumboMode="false"
-        optimize="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_eac8c47b1045d3cb38e1a3c4a1ecf1a984bd6965.jar" />
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.4.0_b5d4a352baf6ee0de84e9bb199644083e3700ed1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
         jumboMode="false"
-        optimize="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_ff665b2e7aa679145608464ce11ff05456235ee2.jar" />
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.4.0_5837ccfc8de6b74c5e65690a1cb97e7901c4d95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_bc1c41bfc8c63393cf4181488f91657a7dafd729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_bb27bec5eaee3d343d8c967cf8c67d5466deb6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_0c93e9c49d29e58e05c67a40022e44d1e5de6631.jar" />
     </item>
     <item
         is-multidex="false"
         jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
         jumboMode="false"
-        optimize="false"
+        optimize="true"
         revision="22.0.1"
         sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
         <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.2.1_d633f814f63f4b9e9c3fb4bc39dea249bcd73fa2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
         jumboMode="false"
-        optimize="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_35ddde554f5b301e4f2d9c2e3ac408f22eac3bfc.jar" />
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.4.0_a11695d7607c2ac7f959becb8fd91192a64480b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.4.0_bd03bcb0ad9fc83b5310781433c11638d8ae033b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.4.0_599b28eb28685688d4996643e5fb176d6189fedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.4.0_82b3cf81bba3d073d7be7e8f91d2ca03e68a5eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_c8d497eb23e4e7b62b3a5c3c4616e24608ccdc97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_b32f8e3db97edd35eeb517fcbff536fc05ca5ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_57257694a849c244d796aff05475d645d507ef8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2a25fdd20d5f75558b6011724bbfbb7d97c7f5b7">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha4_9fb5e1d27ed4b4f8882e6df06c9a980daa22d4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aashutosh\Dont Panic\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_46c899369d07583baa05f51a9c2df6894350d5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-studio\gradle\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha4\constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cdeb2aecf7557aa5f8d2ac0e37a0e7760f48c513">
+        <dex dex="C:\Users\aashutosh\Dont Panic\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha4_f177534093b058706420f8e94acaf6c40f22f8f5.jar" />
     </item>
 
 </items>

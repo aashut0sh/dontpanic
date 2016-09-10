@@ -1,5 +1,6 @@
 package com.aashutoshrestha.dontpanic.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -18,8 +19,12 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
     private static String TAG = MainActivity.class.getSimpleName();
 
+
     private Toolbar mToolbar;
     private FragmentDrawer drawerFragment;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,6 +43,9 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
         // display the first navigation drawer view on app launch
         displayView(0);
+
+
+
     }
 
 
@@ -57,10 +65,12 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent intent = new Intent(MainActivity.this,SigninActivity.class);
+            MainActivity.this.startActivity(intent);
             return true;
         }
 
-        if(id == R.id.action_search){
+        if(id == R.id.action_flashlight){
             Toast.makeText(getApplicationContext(), "Flashlight toggled", Toast.LENGTH_SHORT).show();
             return true;
         }
