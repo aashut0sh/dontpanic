@@ -60,7 +60,7 @@ public class SigninActivity extends AppCompatActivity {
                 }
 
                 if (TextUtils.isEmpty(toSignInPassword)) {
-                    Toast.makeText(getApplicationContext(), "Enter password!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Enter Password!", Toast.LENGTH_SHORT).show();
                     return;
                 }
 

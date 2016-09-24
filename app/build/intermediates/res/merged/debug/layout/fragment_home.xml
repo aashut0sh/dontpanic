@@ -29,12 +29,30 @@
         android:id="@+id/textView2" />
 
     <ImageView
-        android:layout_width="500dp"
-        android:layout_height="500dp"
-        android:src="@drawable/ic_action_panicbutton"
-        android:id="@+id/imageView2"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@id/label"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/ic_panicbutton"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:id="@+id/panicbutton"
+        android:paddingTop="50dp"
+        android:layout_weight="0.59"
+        android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="12dp"
+        android:paddingTop="50dp"
+        android:gravity="center_horizontal"
+        android:text="Please Press this button when in emergency!"
+        android:id="@+id/textView3"
+        android:layout_marginBottom="114dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>

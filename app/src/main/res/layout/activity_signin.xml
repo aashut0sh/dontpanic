@@ -12,7 +12,7 @@
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="56dp"
+        android:paddingTop="20dp"
         android:paddingLeft="24dp"
         android:paddingRight="24dp"
         android:weightSum="1">
@@ -20,6 +20,15 @@
         <!-- Email Label -->
 
         <!-- Password Label -->
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/ic_insidelogo"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:id="@+id/imageView"
+            android:layout_weight="0.59" />
 
         <TextView
             android:text="Email"
